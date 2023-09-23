@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yogesh Patil</h1>
-<h3 align="center">A passionate frontend & backend developer from India</h3>
+<h3 align="center">A passionate Python And Java Developer developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshgithu&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshgithu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshgithu" alt="yogeshgithu" /></a> </p>
 
-- 🔭 I’m currently working on [student management system](https://github.com/YogeshGitHu/Projects-In-Python.git)
+- 🔭 I’m currently working on [androi mobile app developement](https://github.com/YogeshGitHu/Projects-In-Python.git)
 
 - 🌱 I’m currently learning **Android MAD,Machin learning & Data Science**
 
-- 👯 I’m looking to collaborate on **android project**
-
+- 👯 I’m looking to collaborate on ** Projects **
+- 
 - 💬 Ask me about **Python, Java**
 
 - 📫 How to reach me **Yogeshspatil10062001@gmail.com**
