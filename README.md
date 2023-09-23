@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshgithu" alt="yogeshgithu" /></a> </p>
 
-- 🔭 I’m currently working on [androi mobile app developement](https://github.com/YogeshGitHu/Projects-In-Python.git)
+- 🔭 I’m currently working on [android mobile app developement](https://github.com/YogeshGitHu/Projects-In-Python.git)
 
 - 🌱 I’m currently learning **Android MAD,Machin learning & Data Science**
 
