@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh Patil</h1>
+<h2 align="center">I share knowledge through my code, articles, posts and talks💙️ ! </h2>
 <h3 align="center">A passionate Python And Java Developer developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshgithu&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshgithu" /> </p>
